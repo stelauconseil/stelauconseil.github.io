@@ -167,7 +167,7 @@
 # -------
 fr: &DEFAULT_FR
   header:
-    title: Nous sommes un groupe d'experts, d'auditeurs et de développeurs en
+    title: Nous sommes Experts, Auditeurs et Développeurs en
     text: Cyber sécurité
     button: Découvrir nos Services
     buttonlink: "#services"
