@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
+    - title: "Case Studies"
       section: portfolio
     - title: "About"
       section: about
@@ -36,7 +36,7 @@ fr: &DEFAULT_FR
   nav:
     - title: "Services"
       section: services
-    - title: "Portefolio"
+    - title: "Cas Clients"
       section: portfolio
     - title: "A propos"
       section: about

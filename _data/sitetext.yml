@@ -202,7 +202,7 @@ fr: &DEFAULT_FR
         alt:
       - title: "Agrément LSTI"
         year: "2017"
-        desc: "Agréé par **LSTI** en tant qu'auditeurs eIDAS et ISO/IEC 27001, nous intervenons en tant qu'auditeurs et responsables d'audit dans les processus de certifications."
+        desc: "Agréé par **LSTI** en tant qu'auditeurs eIDAS et ISO/IEC 27001, nous intervenons en tant qu'auditeurs et responsables d'audit dans les processus de certifications de LSTI."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Agrément ANSSI"
@@ -225,7 +225,7 @@ fr: &DEFAULT_FR
     end: "Soyez <br> acteur de <br> notre histoire !"
 
   portfolio:
-    title: "Nos réalisations"
+    title: "Cas Clients"
     text: "Cas clients"
     section: portfolio
     closebutton: "Fermer"
@@ -240,7 +240,7 @@ fr: &DEFAULT_FR
     section: clients
     title: "Ils nous font confiance"
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "" #"yes/no"
     list:
       - title: "France Identité"
         url: https://www.france-identite.gouv.fr/
@@ -254,14 +254,17 @@ fr: &DEFAULT_FR
       - title: "EPITA"
         url: https://www.epita.fr/
         logo: assets/img/clients/epita.png
+      - title: "LSTI"
+        url: https://www.lsti-certification.fr/
+        logo: assets/img/clients/lsti.png
       - title: "Atos"
         url: https://www.atos.net/
         logo: assets/img/clients/atos.png
 
   team:
-    title: "Notre incroyable équipe"
+    title: "Notre équipe"
     text: "Composée exclusivement d'ingénieurs spécialisés en Cybersécurité,"
-    subtext: "Notre équipe est également continuellement formée aux dernières technologies et certifications du secteur, notamment le [CISSP](https://www.isc2.org), l'ISO/IEC 27001 ou encore les formations certifiantes du [SANS](https://www.sans.org)"
+    subtext: "Notre équipe est également continuellement formée aux dernières technologies et certifications du secteur, notamment le [CISSP](https://www.isc2.org), l'ISO/IEC 27001 ou encore les formations certifiantes du [SANS](https://www.sans.org)."
     section: team
     people:
       - name: "Nicolas Chalanset"
@@ -275,6 +278,18 @@ fr: &DEFAULT_FR
         image: assets/img/team/benoit.leger-derville.png
         social:
           - url: https://linkedin.com/in/legerderville
+            icon: fab fa-linkedin-in
+      - name: "Quentin Ropele"
+        role: "Ingénieur Cybersécurité"
+        image: assets/img/team/quentin.ropele.png
+        social:
+          - url: https://linkedin.com/in/quentin-ropele-87878b178
+            icon: fab fa-linkedin-in
+      - name: "Loïc Perry"
+        role: "Ingénieur Cybersécurité"
+        image: assets/img/team/loic.perry.png
+        social:
+          - url: https://linkedin.com/in/loicperry
             icon: fab fa-linkedin-in
 
   contact:
