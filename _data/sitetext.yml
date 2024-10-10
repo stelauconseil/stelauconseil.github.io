@@ -291,6 +291,12 @@ fr: &DEFAULT_FR
         social:
           - url: https://linkedin.com/in/loicperry
             icon: fab fa-linkedin-in
+      - name: "Paul Chabas"
+        role: "Ingénieur Cybersécurité"
+        image: assets/img/team/paul.chabas.png
+        social:
+          - url: https://linkedin.com/in/paul-chabas
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact"
