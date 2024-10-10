@@ -17,15 +17,15 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+title      : Stelau
+email      : contact@stelau.com #this is also the email contact forms will go to
+description: Exertise en Cybersécurité.
+author     : Nicolas Chalanset 
+logo:     #optional, defaults to site title
+  path: assets/img/logo.png
+  height: 52 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "fr-FR" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
@@ -41,3 +41,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-compress-images
