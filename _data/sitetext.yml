@@ -174,7 +174,7 @@ fr: &DEFAULT_FR
 
   services:
     title: "Nos Services"
-    text: "dédié aux activités en Cybersécurité"
+    text: "dédié aux activités de Cybersécurité"
     section: services
     list:
       - title: "Conseil et Expertise"
