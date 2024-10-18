@@ -226,7 +226,7 @@ fr: &DEFAULT_FR
 
   portfolio:
     title: "Cas Clients"
-    text: "Cas clients"
+    text: "Ils nous font confiance"
     section: portfolio
     closebutton: "Fermer"
 
