@@ -1,11 +1,11 @@
 ---
-title: IDnomic
+title: PSCO français
 subtitle: Accompagnement à la qualification 'Trust Service Provider' eIDAS et RGS.
 image: assets/img/portfolio/eidas-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: IDnomic
+  title: PSCO français
   subtitle: Accompagnement à la qualification 'Trust Service Provider' eIDAS et RGS.
   thumbnail: assets/img/portfolio/eidas-thumbnail.jpg
 ---
@@ -14,6 +14,6 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 {:.list-inline}
 
-- Date: January 2017
+- Date: depuis 2016
 - Client: IDnomic
 - Category: Accompagnement certification produits et service

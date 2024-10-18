@@ -182,7 +182,7 @@ fr: &DEFAULT_FR
         #<br />[En savoir plus](conseil-et-expertise)"
         icon: fas fa-file-contract #find more at https://fontawesome.com/icons
       - title: "Audits"
-        desc: "Agréé par l'**ANSSI** en tant qu'évaluateurs [PVID](https://cyber.gouv.fr/voir-les-centres-devaluation), nous intervenons également sur les référentiels eIDAS et ISO/IEC 27001."
+        desc: "Agréé par l'**ANSSI** en tant qu'évaluateurs [PVID](https://cyber.gouv.fr/voir-les-centres-devaluation), nous intervenons également sur les référentiels eIDAS, ISO/IEC 27001 et PASSI."
         icon: fas fa-list
       - title: "Développement sécurisé"
         desc: "Notre expertise en cybersécurité nous permet de vous accompagner dans le développement de vos applications et services, en intégrant la sécurité dès la conception."
