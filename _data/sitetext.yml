@@ -208,7 +208,7 @@ fr: &DEFAULT_FR
       - title: "Agrément ANSSI"
         year: "2021"
         desc: "Agréé par l'**ANSSI** en tant qu'évaluateurs [PVID](https://cyber.gouv.fr/voir-les-centres-devaluation)."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/anssi.png
         alt:
       - title: "Développement sécurisé"
         year: "2022"
