@@ -16,4 +16,4 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 - Date: Septembre 2024
 - Client: Eviden
-- Category: Développement sécurisé
+- Categorie: Développement sécurisé

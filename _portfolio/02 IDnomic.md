@@ -16,4 +16,4 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 - Date: depuis 2016
 - Client: IDnomic
-- Category: Accompagnement certification produits et service
+- Categorie: Accompagnement qualification / certification produits et services

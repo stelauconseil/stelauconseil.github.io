@@ -16,4 +16,4 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 - Date: 2023
 - Client: Agence France Titres
-- Category: Accompagnement certification produits et service
+- Categorie: Accompagnement certification produits et service
