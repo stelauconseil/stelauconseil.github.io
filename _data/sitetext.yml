@@ -303,14 +303,14 @@ fr: &DEFAULT_FR
     text: "6, place de la Madeleine, 75008 Paris<br>+33 970 444 477"
     section: contact
     name: "Nom"
-    name-validation: "Por favor ingrese su nombre."
+    name-validation: "Merci de saisir votre nom."
     email: "Email*"
-    email-validation: "Por favor ingrese su correo electrónico."
+    email-validation: "Merci de saisir votre email."
     phone: "Téléphone*"
-    phone-validation: "Por favor ingrese su número telefónico."
+    phone-validation: "Merci de saisir votre numéro de téléphone."
     message: "Message*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
+    message-validation: "Merci de préciser le message."
+    subject: "Contact site web"
     submit: "Envoyer"
 
   footer:
