@@ -11,23 +11,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: raviriley/agency-jekyll-theme
+theme: jekyll-agency
 
-url    : "https://www.stelau.com" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Stelau
-email      : contact@stelau.com #this is also the email contact forms will go to
-description: Exertise en Cybersécurité.
-author     : Nicolas Chalanset 
-logo:     #optional, defaults to site title
-  path: assets/img/logo.png
-  height: 52 #height in px, defaults to 52px
+title      : Your Awesome Website
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
 
-locale: "fr-FR" # See available languages in _data/sitetext.yml
+locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: G-FSCZZ4WCS3 #Google Analytics tracking code here
+  google: #Google Analytics tracking code here
 
 collections:
   portfolio:
@@ -36,8 +36,4 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
- formspree_form_path: "f/mpwzwkkd"
-
-plugins:
-  - jekyll-local-theme 
-  - jekyll-compress-images
+# formspree_form_path: "f/a_form_id"
