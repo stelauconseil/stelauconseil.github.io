@@ -302,7 +302,6 @@ fr: &DEFAULT_FR
     title: "Contact"
     text: "6, place de la Madeleine, 75008 Paris<br>+33 970 444 477"
     section: contact
-    form: true
     name: "Nom"
     name-validation: "Merci de saisir votre nom."
     email: "Email*"

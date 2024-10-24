@@ -39,5 +39,5 @@ markdown: kramdown
  formspree_form_path: "f/mpwzwkkd"
 
 plugins:
-  - jekyll-local-theme 
+  - jekyll-remote-theme
   - jekyll-compress-images
