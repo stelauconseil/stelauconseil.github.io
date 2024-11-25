@@ -1,8 +1,8 @@
 ---
 title: France Identité
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Accompagnement aux CSPN, à la certification MIE de niveau élevé et à la Peer Review Européenne
 image: assets/img/portfolio/france-identite-full.jpg
-alt: Shirts on a hanger
+alt: France Identité
 
 caption:
   title: France Identité
