@@ -2,6 +2,9 @@
 .btn {
   @include heading-font;
   font-weight: 700;
+  align-items: center;
+  align-self: center;
+  text-align: center;
 }
 
 .btn-xl {
@@ -10,6 +13,8 @@
 }
 
 .btn-primary {
+  align-items: center;
+  align-self: center;
   background-color: $primary;
   border-color: $primary;
   &:active,

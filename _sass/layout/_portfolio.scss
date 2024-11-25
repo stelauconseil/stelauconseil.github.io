@@ -77,15 +77,22 @@
   }
   .modal-content {
     padding: 100px 0;
-    text-align: center;
+    h1{
+      text-align: center;
+    }
     h2 {
-      font-size: 3em;
+      font-size: 2em;
+      margin-bottom: 15px;
+    }
+    h3 {
+      font-size: 1em;
       margin-bottom: 15px;
     }
     p {
       margin-bottom: 30px;
     }
     p.item-intro {
+      text-align: center;
       font-size: 16px;
       font-style: italic;
       margin: 20px 0 30px;
