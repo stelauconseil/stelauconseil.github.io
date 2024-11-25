@@ -75,7 +75,7 @@ avait pour ambition de proposer des services certifiés de fourniture de certifi
 ## 5. Pérennisation
 
 - Mise en place d’un **cadre évolutif** permettant d’intégrer facilement les évolutions réglementaires (ex. : révisions eIDAS 2.0).
-- **Assistance contractuelle** pour les audits périodiques et la veille réglementaire.
+- **Assistance** pour les audits périodiques et la veille réglementaire.
 
 ---
 
