@@ -42,13 +42,14 @@ France Identité, une initiative nationale pour offrir une **identité numériqu
 
 ---
 
-## 3. Approche et solution mise en œuvre par Stelau.com
+## 3. Approche et solution mise en œuvre
 
-### a) CSPN de l’application mobile
+### a) CSPN des applications mobiles
 
 1. **Audit et pré-évaluation de sécurité** :
 
-   - Rédaction de la cible de sécurité (Security Target)
+   - Rédaction des cibles de sécurité (Security Target).
+   - Rédaction des Spécifications Cryptographiques.
    - Identification des failles potentielles via des tests d’intrusion.
    - Analyse des flux sensibles (authentification, gestion des données utilisateur, interactions avec les serveurs).
 
