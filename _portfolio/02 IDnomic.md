@@ -84,5 +84,5 @@ Grâce à cet accompagnement sur plusieurs années, nous avons consolidé notre 
 {:.list-inline}
 
 - Date: depuis 2016
-- Client: IDnomic
+- Client: Prestataire de Services de Confiance Français
 - Categorie: Accompagnement qualification / certification produits et services
