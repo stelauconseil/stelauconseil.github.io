@@ -260,6 +260,9 @@ fr: &DEFAULT_FR
       - title: "Atos"
         url: https://www.atos.net/
         logo: assets/img/clients/atos.png
+      - title: "VDS Verify"
+        url: https://vds-verify.stelau.com/
+        logo: assets/img/clients/vds-verify.png
 
   team:
     title: "Notre équipe"
