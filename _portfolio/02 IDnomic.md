@@ -65,8 +65,8 @@ avait pour ambition de proposer des services certifiés de fourniture de certifi
 
 ## 4. Résultats obtenus
 
-- **Obtention de la qualification QTS** pour plusieurs services de confiance.
-- Conformité totale avec les normes **RGS niveau 2 et 3**.
+- **Obtention de la qualification eIDAS (Qualified TSP)** pour plusieurs services de confiance.
+- Conformité totale avec le **RGS aux niveaux 2 et 3 étoiles**.
 - Gain de **crédibilité et attractivité** auprès des clients et partenaires.
 - Réduction des risques de non-conformité grâce à des audits internes réguliers et un suivi continu des évolutions réglementaires.
 
