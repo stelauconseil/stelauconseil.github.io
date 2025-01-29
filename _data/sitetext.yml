@@ -300,6 +300,18 @@ fr: &DEFAULT_FR
         social:
           - url: https://linkedin.com/in/paul-chabas
             icon: fab fa-linkedin-in
+      - name: "Hector Colin"
+        role: "Ingénieur Cybersécurité Junior"
+        image: assets/img/team/hector.colin.png
+        social:
+          - url: https://www.linkedin.com/in/hector-colin
+            icon: fab fa-linkedin-in
+      - name: "Julien Erhard"
+        role: "Ingénieur Cybersécurité Junior"
+        image: assets/img/team/julien.erhard.png
+        social:
+          - url: https://www.linkedin.com/in/julien-erhard/
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact"
