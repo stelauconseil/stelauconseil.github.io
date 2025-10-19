@@ -1,18 +1,18 @@
 ---
 title: Nested Visible Digital Seal (VDS) — TR‑23111
-subtitle: Spécification inventée par Stelau pour l’attestation optique et la proximité mDL
+subtitle: Spécification développée par Stelau pour la vérification optique rapide et la proximité mDL
 image: assets/img/portfolio/france-identite-sncf-full.jpg
 alt: Nested Visible Digital Seal TR‑23111
 
 caption:
   title: France Identité
-  subtitle: Invention et rédaction de la spécification TR‑23111 « Nested VDS »
+  subtitle: Conception et élaboration de la spécification TR‑23111 « Nested VDS »
   thumbnail: assets/img/portfolio/france-identite-sncf-thumbnail.jpg
 ---
 
 ## 1. Présentation du projet et des enjeux
 
-Nous avons inventé et rédigé la spécification **TR‑23111 « Nested Visible Digital Seal (VDS) »**. Elle définit un mécanisme, au‑dessus d’**ISO 22376**, qui permet de présenter des **preuves optiques** compactes et vérifiables, et de les **imbriquer** pour renforcer la sécurité, la confidentialité et l’anti‑corrélation.
+Nous avons développé et rédigé la spécification **TR‑23111 « Nested Visible Digital Seal (VDS) »**. Elle définit un mécanisme, au‑dessus d’**ISO 22376**, qui permet de présenter des **preuves optiques** compactes et vérifiables, et de les **imbriquer** pour renforcer la sécurité, la confidentialité et l’anti‑corrélation.
 
 Principe clé :
 
