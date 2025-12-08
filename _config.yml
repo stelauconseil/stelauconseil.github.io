@@ -19,7 +19,7 @@ email      : contact@stelau.com #this is also the email contact forms will go to
 description: Exertise en Cybersécurité.
 author     : Nicolas Chalanset 
 logo:     #optional, defaults to site title
-  path: assets/img/logo.png
+  path: assets/img/logo.stelau.png
   height: 52 #height in px, defaults to 52px
 
 locale: "fr-FR" # See available languages in _data/sitetext.yml
