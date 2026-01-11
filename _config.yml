@@ -42,3 +42,4 @@ formspree_form_path: "f/mpwzwkkd"
 
 plugins:
   - jekyll-compress-images
+  - jekyll-sitemap
